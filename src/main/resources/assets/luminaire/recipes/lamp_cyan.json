@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "luminaire:cyan_lantern"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "#CYAN"
+    },
+    "D": {
+      "item": "minecraft:sea_lantern"
+    }
+  }
+}

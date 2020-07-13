@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "normal": {
+      "model": "luminaire:granite_lantern"
+    },
+    "inventory": {
+      "model": "luminaire:item/granite_lantern"
+    },
+    "hanging=true": {
+      "model": "luminaire:hanging_granite_lantern"
+    },
+    "hanging=false": {
+      "model": "luminaire:granite_lantern"
+    }
+  }
+}

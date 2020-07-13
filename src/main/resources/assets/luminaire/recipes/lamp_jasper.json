@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:jasper_lantern"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "quark:jasper",
+      "data": 1
+    },
+    "D": {
+      "item": "minecraft:glowstone"
+    }
+  }
+}

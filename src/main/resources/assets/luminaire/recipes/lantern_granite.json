@@ -1,0 +1,21 @@
+{
+  "result": {
+    "item": "luminaire:granite_lantern",
+    "data": 0
+  },
+  "pattern": [
+    "T",
+    "D",
+    "T"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "quark:stone_granite_slab",
+      "data": 0
+    },
+    "D": {
+      "item": "#TORCH"
+    }
+  }
+}

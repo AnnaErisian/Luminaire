@@ -1,0 +1,18 @@
+{
+  "result": {
+    "item": "luminaire:chain_redstone",
+    "count": 8
+  },
+  "pattern": [
+    "T",
+    "T",
+    "T"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "minecraft:redstone",
+      "data": 0
+    }
+  }
+}

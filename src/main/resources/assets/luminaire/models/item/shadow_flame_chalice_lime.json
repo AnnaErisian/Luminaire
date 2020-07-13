@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "luminaire:blocks/shadow_flame_chalice_lime"
+  }
+}

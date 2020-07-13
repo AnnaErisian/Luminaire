@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": [
+      { "model": "luminaire:ethereal_lantern" }
+    ]
+  }
+}

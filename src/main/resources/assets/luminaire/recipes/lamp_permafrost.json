@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:permafrost_lantern"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "quark:biome_brick",
+      "data": 1
+    },
+    "D": {
+      "item": "minecraft:sea_lantern"
+    }
+  }
+}

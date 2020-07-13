@@ -1,0 +1,21 @@
+{
+  "result": {
+    "item": "luminaire:cherry_lantern"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "biomesoplenty:planks_0",
+      "data": 1
+    },
+    "D": {
+      "item": "charm:smooth_glowstone",
+      "data": 0
+    }
+  }
+}

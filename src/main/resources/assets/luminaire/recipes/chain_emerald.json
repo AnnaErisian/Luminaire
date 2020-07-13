@@ -1,0 +1,17 @@
+{
+  "result": {
+    "item": "luminaire:chain_emerald",
+    "count": 8
+  },
+  "pattern": [
+    "T",
+    "T",
+    "T"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "#NUGGETEMERALD"
+    }
+  }
+}

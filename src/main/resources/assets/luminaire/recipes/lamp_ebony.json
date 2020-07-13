@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:ebony_lantern"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "biomesoplenty:planks_0",
+      "data": 14
+    },
+    "D": {
+      "item": "aether_legacy:icestone"
+    }
+  }
+}

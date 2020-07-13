@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "normal": {
+      "model": "luminaire:lapis_slate_lantern"
+    },
+    "inventory": {
+      "model": "luminaire:item/lapis_slate_lantern"
+    },
+    "hanging=true": {
+      "model": "luminaire:hanging_lapis_slate_lantern"
+    },
+    "hanging=false": {
+      "model": "luminaire:lapis_slate_lantern"
+    }
+  }
+}

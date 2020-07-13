@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "normal": {
+      "model": "luminaire:slate_lantern"
+    },
+    "inventory": {
+      "model": "luminaire:item/slate_lantern"
+    },
+    "hanging=true": {
+      "model": "luminaire:hanging_slate_lantern"
+    },
+    "hanging=false": {
+      "model": "luminaire:slate_lantern"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:shadow_flame_chalice_orange",
+    "count": 1
+  },
+  "pattern": [
+    "TTT",
+    " D "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "#TORCH"
+    },
+    "D": {
+      "item": "minecraft:obsidian",
+      "data": 0
+    }
+  }
+}

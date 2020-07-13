@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "luminaire:white_lantern"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "#WHITE"
+    },
+    "D": {
+      "item": "aether_legacy:icestone"
+    }
+  }
+}

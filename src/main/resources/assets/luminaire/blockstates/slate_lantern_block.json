@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": [
+      { "model": "luminaire:slate_lantern_block" }
+    ]
+  }
+}

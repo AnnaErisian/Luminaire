@@ -1,0 +1,18 @@
+{
+  "result": {
+    "item": "luminaire:chain_bone",
+    "count": 8
+  },
+  "pattern": [
+    "T",
+    "T",
+    "T"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "minecraft:bone",
+      "data": 0
+    }
+  }
+}

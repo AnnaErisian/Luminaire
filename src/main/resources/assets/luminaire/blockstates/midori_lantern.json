@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "normal": {
+      "model": "luminaire:midori_lantern"
+    },
+    "inventory": {
+      "model": "luminaire:item/midori_lantern"
+    },
+    "hanging=true": {
+      "model": "luminaire:hanging_midori_lantern"
+    },
+    "hanging=false": {
+      "model": "luminaire:midori_lantern"
+    }
+  }
+}

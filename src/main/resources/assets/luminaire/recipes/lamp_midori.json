@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:midori_lantern_block"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "quark:midori_block",
+      "data": 0
+    },
+    "D": {
+      "item": "minecraft:slime"
+    }
+  }
+}

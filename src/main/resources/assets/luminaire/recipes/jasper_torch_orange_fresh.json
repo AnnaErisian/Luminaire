@@ -1,0 +1,21 @@
+{
+  "result": {
+    "item": "luminaire:jasper_torch_orange",
+    "count": 4
+  },
+  "pattern": [
+    " T ",
+    "TDT",
+    " T "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "#TORCH"
+    },
+    "D": {
+      "item": "quark:jasper",
+      "data": 0
+    }
+  }
+}

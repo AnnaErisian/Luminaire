@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:red_lantern"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "#RED"
+    },
+    "D": {
+      "item": "biomesoplenty:crystal",
+      "data": 0
+    }
+  }
+}

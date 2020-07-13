@@ -1,0 +1,21 @@
+{
+  "result": {
+    "item": "luminaire:fir_lantern"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "biomesoplenty:planks_0",
+      "data": 3
+    },
+    "D": {
+      "item": "biomesoplenty:crystal",
+      "data": 0
+    }
+  }
+}

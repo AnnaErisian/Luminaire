@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:silver_orb_chalice_purple",
+    "count": 1
+  },
+  "pattern": [
+    "T",
+    "D"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "minecraft:glass"
+    },
+    "D": {
+      "item": "luminaire:silver_flame_chalice_purple",
+      "data": 0
+    }
+  }
+}

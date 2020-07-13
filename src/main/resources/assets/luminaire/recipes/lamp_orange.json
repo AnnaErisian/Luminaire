@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "luminaire:orange_lantern"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "#ORANGE"
+    },
+    "D": {
+      "item": "minecraft:fire_charge"
+    }
+  }
+}

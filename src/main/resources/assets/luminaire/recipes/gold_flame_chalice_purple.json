@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:gold_flame_chalice_purple",
+    "count": 8
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "#GOLD_FLAME_CHALICE"
+    },
+    "D": {
+      "item": "#PURPLE"
+    }
+  }
+}

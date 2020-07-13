@@ -1,0 +1,21 @@
+{
+  "result": {
+    "item": "luminaire:holystone_lantern"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "aether_legacy:holystone_brick",
+      "data": 0
+    },
+    "D": {
+      "item": "charm:smooth_glowstone",
+      "data": 0
+    }
+  }
+}

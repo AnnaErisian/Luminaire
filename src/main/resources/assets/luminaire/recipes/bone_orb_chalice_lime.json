@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:bone_orb_chalice_lime",
+    "count": 8
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "#BONE_ORB_CHALICE"
+    },
+    "D": {
+      "item": "#LIME"
+    }
+  }
+}

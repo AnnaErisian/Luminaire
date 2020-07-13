@@ -1,0 +1,21 @@
+{
+  "result": {
+    "item": "luminaire:umbran_lantern"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "biomesoplenty:planks_0",
+      "data": 2
+    },
+    "D": {
+      "item": "biomesoplenty:crystal",
+      "data": 0
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:birch_lantern"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "minecraft:planks",
+      "data": 2
+    },
+    "D": {
+      "item": "aether_legacy:icestone"
+    }
+  }
+}

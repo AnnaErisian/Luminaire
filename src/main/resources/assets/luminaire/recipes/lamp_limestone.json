@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:limestone_lantern"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "quark:limestone",
+      "data": 1
+    },
+    "D": {
+      "item": "minecraft:slime"
+    }
+  }
+}

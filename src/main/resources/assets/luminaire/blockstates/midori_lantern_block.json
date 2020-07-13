@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": [
+      { "model": "luminaire:midori_lantern_block" }
+    ]
+  }
+}

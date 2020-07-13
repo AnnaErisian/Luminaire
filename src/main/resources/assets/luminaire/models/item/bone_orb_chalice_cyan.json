@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "luminaire:blocks/bone_orb_chalice_cyan"
+  }
+}

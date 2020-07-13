@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": [
+      { "model": "luminaire:andesite_lantern" }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:hellbark_lantern"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "biomesoplenty:planks_0",
+      "data": 11
+    },
+    "D": {
+      "item": "minecraft:fire_charge"
+    }
+  }
+}

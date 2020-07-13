@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:magenta_lantern"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "#MAGENTA"
+    },
+    "D": {
+      "item": "biomesoplenty:crystal",
+      "data": 0
+    }
+  }
+}

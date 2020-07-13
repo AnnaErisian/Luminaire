@@ -1,0 +1,21 @@
+{
+  "result": {
+    "item": "luminaire:gf_miners_delight",
+    "count": 8
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "biomesoplenty:flower_1",
+      "data": 3
+    },
+    "D": {
+      "item": "#GLOWDUST"
+    }
+  }
+}

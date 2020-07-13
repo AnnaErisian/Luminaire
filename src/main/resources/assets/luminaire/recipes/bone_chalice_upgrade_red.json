@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:bone_orb_chalice_red",
+    "count": 1
+  },
+  "pattern": [
+    "T",
+    "D"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "minecraft:glass"
+    },
+    "D": {
+      "item": "luminaire:bone_flame_chalice_red",
+      "data": 0
+    }
+  }
+}

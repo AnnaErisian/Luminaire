@@ -1,0 +1,21 @@
+{
+  "result": {
+    "item": "luminaire:pitstone_lantern"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "thebetweenlands:smooth_pitstone",
+      "data": 0
+    },
+    "D": {
+      "item": "biomesoplenty:crystal",
+      "data": 0
+    }
+  }
+}

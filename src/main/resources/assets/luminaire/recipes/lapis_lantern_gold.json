@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "luminaire:lapis_gold_lantern",
+    "data": 0
+  },
+  "pattern": [
+    "TDT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "#LAPIS"
+    },
+    "D": {
+      "item": "charm:gold_lantern",
+      "data": 0
+    }
+  }
+}

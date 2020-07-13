@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:silver_orb_chalice_pink",
+    "count": 8
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "#SILVER_ORB_CHALICE"
+    },
+    "D": {
+      "item": "#PINK"
+    }
+  }
+}

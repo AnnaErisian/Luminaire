@@ -1,0 +1,21 @@
+{
+  "result": {
+    "item": "luminaire:midori_lantern",
+    "data": 0
+  },
+  "pattern": [
+    "T",
+    "D",
+    "T"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "quark:midori_block_slab",
+      "data": 0
+    },
+    "D": {
+      "item": "#TORCH"
+    }
+  }
+}

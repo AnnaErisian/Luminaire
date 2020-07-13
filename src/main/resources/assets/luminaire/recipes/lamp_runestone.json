@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:runestone_lantern"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "roots:runestone",
+      "data": 0
+    },
+    "D": {
+      "item": "minecraft:sea_lantern"
+    }
+  }
+}

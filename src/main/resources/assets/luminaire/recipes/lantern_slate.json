@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "luminaire:slate_lantern",
+    "data": 0
+
+  },
+  "pattern": [
+    "T",
+    "D",
+    "T"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "quark:stone_slate_slab",
+      "data": 0
+    },
+    "D": {
+      "item": "#TORCH"
+    }
+  }
+}

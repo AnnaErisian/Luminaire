@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:stone_lantern"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "D": {
+      "item": "minecraft:sea_lantern"
+    }
+  }
+}

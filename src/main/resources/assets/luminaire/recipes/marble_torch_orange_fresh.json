@@ -1,0 +1,21 @@
+{
+  "result": {
+    "item": "luminaire:marble_torch_orange",
+    "count": 4
+  },
+  "pattern": [
+    " T ",
+    "TDT",
+    " T "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "#TORCH"
+    },
+    "D": {
+      "item": "quark:marble",
+      "data": 0
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:shadow_orb_chalice_pink",
+    "count": 1
+  },
+  "pattern": [
+    "T",
+    "D"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "minecraft:glass"
+    },
+    "D": {
+      "item": "luminaire:shadow_flame_chalice_pink",
+      "data": 0
+    }
+  }
+}

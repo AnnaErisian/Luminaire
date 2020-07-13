@@ -1,0 +1,21 @@
+{
+  "result": {
+    "item": "luminaire:gf_swampflower",
+    "count": 8
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "biomesoplenty:flower_0",
+      "data": 1
+    },
+    "D": {
+      "item": "#GLOWDUST"
+    }
+  }
+}

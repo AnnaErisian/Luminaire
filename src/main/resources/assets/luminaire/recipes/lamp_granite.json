@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:granite_lantern_block"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "minecraft:stone",
+      "data": 2
+    },
+    "D": {
+      "item": "minecraft:glowstone"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": [
+      { "model": "luminaire:granite_lantern_block" }
+    ]
+  }
+}

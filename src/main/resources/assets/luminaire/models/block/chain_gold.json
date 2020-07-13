@@ -1,0 +1,6 @@
+{
+  "parent": "luminaire:block/chain",
+  "textures": {
+    "cross": "luminaire:blocks/chain_gold"
+  }
+}

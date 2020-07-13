@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "normal": {
+      "model": "luminaire:marble_lantern"
+    },
+    "inventory": {
+      "model": "luminaire:item/marble_lantern"
+    },
+    "hanging=true": {
+      "model": "luminaire:hanging_marble_lantern"
+    },
+    "hanging=false": {
+      "model": "luminaire:marble_lantern"
+    }
+  }
+}

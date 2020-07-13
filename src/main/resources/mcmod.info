@@ -1,0 +1,16 @@
+[
+{
+  "modid": "luminaire",
+  "name": "Luminaire",
+  "description": "Extra lights.  Recipes use a ton of different mods, just CT any you don't have to something else.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SigmaJ/TheErisian"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

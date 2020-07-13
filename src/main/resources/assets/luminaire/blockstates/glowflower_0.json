@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "variant=dandelion": { "model": "minecraft:dandelion" },
+    "variant=poppy": { "model": "minecraft:poppy" },
+    "variant=orchid": { "model": "minecraft:orchid" },
+    "variant=allium": { "model": "minecraft:allium" },
+    "variant=houstonia": { "model": "minecraft:houstonia" },
+    "variant=red_tulip": { "model": "minecraft:red_tulip" },
+    "variant=orange_tulip": { "model": "minecraft:orange_tulip" },
+    "variant=white_tulip": { "model": "minecraft:white_tulip" },
+    "variant=pink_tulip": { "model": "minecraft:pink_tulip" },
+    "variant=daisy": { "model": "minecraft:daisy" },
+    "variant=clover": { "model": "biomesoplenty:clover" },
+    "variant=swampflower": { "model": "biomesoplenty:swampflower" },
+    "variant=glowflower": { "model": "biomesoplenty:glowflower" },
+    "variant=blue_hydrangea": { "model": "biomesoplenty:blue_hydrangea" },
+    "variant=orange_cosmos": { "model": "biomesoplenty:orange_cosmos" },
+    "variant=pink_daffodil": { "model": "biomesoplenty:pink_daffodil" }
+  }
+}

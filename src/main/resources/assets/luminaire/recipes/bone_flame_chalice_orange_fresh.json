@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:bone_flame_chalice_orange",
+    "count": 1
+  },
+  "pattern": [
+    "TTT",
+    " D "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "#TORCH"
+    },
+    "D": {
+      "item": "minecraft:bone_block",
+      "data": 0
+    }
+  }
+}

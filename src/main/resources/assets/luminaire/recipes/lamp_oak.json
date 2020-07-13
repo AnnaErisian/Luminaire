@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:oak_lantern"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "minecraft:planks",
+      "data": 0
+    },
+    "D": {
+      "item": "minecraft:glowstone"
+    }
+  }
+}

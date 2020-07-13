@@ -1,0 +1,23 @@
+{
+  "result": {
+    "item": "luminaire:lavender_lantern"
+  },
+  "pattern": [
+    "TTT",
+    "WDW",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "#PURPLE"
+    },
+    "W": {
+      "item": "#WHITE"
+    },
+    "D": {
+      "item": "biomesoplenty:crystal",
+      "data": 0
+    }
+  }
+}

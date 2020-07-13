@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:slate_torch_silver",
+    "count": 8
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "#SLATE_TORCH"
+    },
+    "D": {
+      "item": "#SILVER"
+    }
+  }
+}

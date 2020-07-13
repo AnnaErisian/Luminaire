@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:sandstone_lantern"
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "minecraft:sandstone",
+      "data": 2
+    },
+    "D": {
+      "item": "aether_legacy:icestone"
+    }
+  }
+}

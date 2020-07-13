@@ -1,0 +1,21 @@
+{
+  "result": {
+    "item": "luminaire:gf_white_tulip",
+    "count": 8
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "minecraft:red_flower",
+      "data": 6
+    },
+    "D": {
+      "item": "#GLOWDUST"
+    }
+  }
+}

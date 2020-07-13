@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "luminaire:colored_flame_purple",
+    "count": 8
+  },
+  "pattern": [
+    "TTT",
+    "TDT",
+    "TTT"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "T": {
+      "item": "#COLORED_FLAME"
+    },
+    "D": {
+      "item": "#PURPLE"
+    }
+  }
+}

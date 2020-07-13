@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": [
+      { "model": "luminaire:oak_lantern" }
+    ]
+  }
+}

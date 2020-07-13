@@ -1,0 +1,20 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "transform": "forge:default-item",
+    "model": "cross",
+    "textures": {
+      "cross": "luminaire:blocks/shadow_orb_chalice_cyan",      "particle": "#cross"
+    }
+  },
+  "variants": {
+    "facing": {
+      "up": { "model": "cross" },
+      "down": { "model": "cross", "x": 180 },
+      "east": { "model": "luminaire:cross_wall" },
+      "south": { "model": "luminaire:cross_wall", "y": 90 },
+      "west": { "model": "luminaire:cross_wall", "y": 180 },
+      "north": { "model": "luminaire:cross_wall", "y": 270 }
+    }
+  }
+}
